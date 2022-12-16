@@ -1,2 +1,2 @@
 # coursera-test
-testing
+testing repository
